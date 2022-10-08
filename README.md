@@ -4,4 +4,4 @@ Xylophone App made with Android and Java.
 
 
 
-![Xylophone App](https://github.com/rajtechi/MusicApp/blob/master/Screenshots/xylophone.png)
+<img src="https://github.com/rajtechi/MusicApp/blob/master/Screenshots/xylophone.png" height="100"/>
